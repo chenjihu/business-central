@@ -6,7 +6,7 @@
 FROM jboss/business-central-workbench:7.25.0.Final
 
 ####### MAINTAINER ############
-MAINTAINER "Michael Biarnes Kiefer" "mbiarnes@redhat.com"
+MAINTAINER "Neil Chen" "chenjihu@gmail.com"
 
 ####### ENVIRONMENT ############
 # Use demo and examples by default in this showcase image (internet connection required).
