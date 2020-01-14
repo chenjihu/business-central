@@ -3,7 +3,7 @@
 #################################################################################
 
 ####### BASE ############
-FROM jboss/kie-server:7.25.0.Final
+FROM jboss/kie-server:7.31.0.Final
 
 ####### MAINTAINER ############
 MAINTAINER "Neil Chen" "chenjihu@gmail.com"
